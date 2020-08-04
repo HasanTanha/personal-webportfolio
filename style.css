@@ -1,3 +1,4 @@
+
 body{
     font-family: 'poppins' , sans-serif;
 }
@@ -24,12 +25,15 @@ section{
 }
 .link-button1{
     text-decoration: none;
-    background-image: linear-gradient(45deg, #ff9f43, #feca57);
+    background-image: linear-gradient(45deg, #d87518, #feca57);
     padding: 7px 20px;
     border-radius: 7px;
     color: white;
     box-shadow: 4px 1px 7px gray;
     font-family: 'Red Rose', cursive;
+}
+.link-button1:hover{
+    background: #d87518;
 }
 .header-bg{
     background-image: url("images/header-bg.png");
@@ -43,6 +47,9 @@ section{
     color: white;
     box-shadow: 4px 1px 7px gray;
     font-family: 'Red Rose', cursive;
+}
+.link-button2:hover{
+    background: #5f27cd;
 }
 .biography-h1{
     font-size: 40px;
