@@ -87,4 +87,7 @@ section{
 .latest-work-bg{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
+}
+#footer-section{
+    padding-left: 125px;
 }    
