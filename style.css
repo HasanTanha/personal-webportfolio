@@ -89,5 +89,50 @@ section{
     background-repeat: no-repeat;
 }
 #footer-section{
-    padding-left: 125px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.mail-section{
+    background: #ED4C67;
+    padding: 10px;
+    color: white;
+    padding-left: 30%;
+    border-radius: 7px;
+    font-size: 25px;
+    margin-bottom: 175px;
+    margin-top: 10px;
+}
+.mail-section p{
+    color: white;
+    font-size: 15px;
+    padding-left: 16%;
+}
+.foot-section p{
+    text-align: center;
+    color: black;
+    padding-bottom: 15px;
+}
+.footer-h2{
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+.client-identity{
+    text-align: center;
+    margin: 0;
+    margin-bottom: 60px;
+}
+.client-identity p{
+    text-align: center;
+    margin: 0;
+}
+.qoute-sec p{
+    text-align: center;
+    padding: 22px 53px;
+    font-family: 'Oleo Script', cursive;
+    font-size: 21px;
+}
+.footer-bg{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
 }    
