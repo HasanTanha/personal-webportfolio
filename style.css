@@ -1,6 +1,7 @@
 
 body{
     font-family: 'poppins' , sans-serif;
+    margin: 0;
 }
 p{
     text-align: justify;
@@ -57,5 +58,33 @@ section{
 }
 .biography-bg{
     background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work-text{
+    text-align: center;
+    font-family: 'Lemonada', cursive;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-size: 25px;
+    background: linear-gradient(45deg, #5f27cd, lightgreen, #d87518);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+.onethird-width{
+    width: 28%;
+    float: left;
+    padding: 6px;
+    margin: 2px;
+}
+.onethird-width img{
+    width: 100%;
+}
+#work-section{
+    padding-left: 120px;
+    padding-top: 20px;
+}
+.latest-work-bg{
+    background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
 }    
